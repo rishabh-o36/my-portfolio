@@ -6,7 +6,7 @@ This portfolio showcases my skills, projects, experience, and journey as a devel
 
 ## 🌐 Live Portfolio
 
-🔗 **Portfolio:** my-portfolio-gcrdpkbj6-rishabh-o36s-projects.vercel.app
+🚀 **[Visit My Portfolio](https://my-portfolio-gcrdpkbj6-rishabh-o36s-projects.vercel.app)**
 
 ---
 
