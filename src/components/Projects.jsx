@@ -9,7 +9,7 @@ const projects = [
     description:
       "A real-time chat application built with React and Node.js, featuring instant messaging, user authentication, and a clean, responsive UI.",
     image: "/assets/project.png",
-    link: "chat-app-five-bice-33.vercel.app",
+    link: "https://chat-app-five-bice-33.vercel.app",
   },
   {
     id: 2,
@@ -25,7 +25,7 @@ const projects = [
     description:
       "The Next-Generation Autonomous AI Debugger. AgentSmiths identifies, diagnoses, and repairs logical flaws and bugs in your codebase before they hit production. It leverages advanced AI algorithms to analyze code, detect anomalies, and provide actionable insights for developers, ensuring a seamless and efficient debugging process.",
     image: "/assets/project2.png",
-    link: "https://github.com/rishabh-o36/agentic-ai-debugger",
+    link: "https://agentic-ai-debugger.vercel.app/",
   },
   
 ];
