@@ -103,7 +103,7 @@ export default function Skills() {
       id: 2,
       company: "Ardema",
       role: "Social Media Manager",
-      period: "Dec 2024 - Present",
+      period: "Dec 2024 - Feb 2025",
       description:
         "As a Social Media Manager for the Ardema College Club, I manage the club’s Instagram and LinkedIn handles, create and edit content including reels and event photography, and help coordinate and promote college events and activities.",
       logo: "/assets/Ardema.jpg",
