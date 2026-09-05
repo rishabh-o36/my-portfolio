@@ -1,91 +1,138 @@
-# Portfolio Website
+# Rishabh Yadav — Portfolio
 
-A personal portfolio website built to showcase my work, skills, projects, and experience as a developer interested in **full-stack development, backend systems, AI-powered applications, and automation**.
+Welcome to my personal portfolio website! 🚀
 
-The portfolio highlights projects ranging from AI applications and intelligent research systems to backend data pipelines and full-stack applications.
+This portfolio showcases my skills, projects, experience, and journey as a developer. It is designed to provide a quick overview of my technical expertise and the projects I have built.
 
-## Features
+## 🌐 Live Portfolio
 
-* **Responsive Design** — Designed to work across desktop, tablet, and mobile devices.
-* **Smooth Animations** — Interactive animations and transitions powered by Framer Motion.
-* **Project Showcase** — Highlights selected projects, including AI-powered applications and backend systems.
-* **Skills & Experience** — A structured overview of my technical skills, projects, and professional experience.
-* **Contact & Social Links** — Easy ways to connect through email, LinkedIn, GitHub, and other platforms.
-
-## Tech Stack
-
-* **Frontend:** React.js
-* **Build Tool:** Vite
-* **Styling:** Tailwind CSS
-* **Animations:** Framer Motion
-* **Icons:** React Icons
-
-## Featured Projects
-
-The portfolio currently showcases selected projects such as:
-
-* **EquityScout** — AI-powered deep equity research and investment analysis.
-* **GeM Tender Discovery Pipeline** — Automated tender discovery, document processing, extraction, and classification pipeline.
-* **AI Resume Builder** — A full-stack application with AI-powered resume content generation.
-* **AI Voice Fraud Detection** — A system designed to classify AI-generated and human voices.
-
-## Installation & Setup
-
-### 1. Clone the repository
-
-```sh
-git clone https://github.com/jatravi/portfolio-.git
-```
-
-### 2. Navigate to the project directory
-
-```sh
-cd portfolio-
-```
-
-### 3. Install dependencies
-
-```sh
-npm install
-```
-
-### 4. Start the development server
-
-```sh
-npm run dev
-```
-
-The application will be available at:
-
-```text
-http://localhost:5173/
-```
-
-## Build for Production
-
-```sh
-npm run build
-```
-
-To preview the production build locally:
-
-```sh
-npm run preview
-```
-
-## Live Demo
-
-[The live version of the portfolio.](https://ravichoudhary.netlify.app/)
-
-## Contact
-
-Feel free to connect with me:
-
-* **Email:** [01official.ravi@gmail.com](mailto:01official.ravi@gmail.com)
-* **LinkedIn:** ([ravi-jaat](https://www.linkedin.com/in/ravi-jaat/))
-* **GitHub:** ([jatravi](https://github.com/jatravi))
-* **X / Twitter:** ([_jaat_ravi](https://x.com/_jaat_ravi))
+🔗 **Portfolio:** [Add your live portfolio link here]
 
 ---
 
-Made with ❤️ by **Ravi Choudhary**
+## 👨‍💻 About Me
+
+Hi, I'm **Rishabh Yadav**, a developer passionate about building modern, responsive, and user-friendly applications.
+
+I enjoy working with **JavaScript, React, Node.js, Express.js, MongoDB, and MySQL**, while continuously exploring new technologies and improving my problem-solving skills.
+
+I am particularly interested in **Full-Stack Development, AI-powered applications, and building practical solutions to real-world problems.**
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+- Java
+- C++
+- JavaScript
+- Python
+
+### Frontend
+- React.js
+- Tailwind CSS
+- HTML
+- CSS
+
+### Backend
+- Node.js
+- Express.js
+- REST APIs
+
+### Databases
+- MongoDB
+- MySQL
+
+### Tools
+- Git
+- GitHub
+- Postman
+- VS Code
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 Agentic AI Debugger
+An AI-powered debugging assistant designed to analyze programming errors, identify possible causes, and provide helpful solutions to improve the debugging process.
+
+**Technologies:** AI, JavaScript, React, Node.js
+
+---
+
+### 💬 ChatApp
+A real-time conversational application with features for messaging and persistent chat history.
+
+**Technologies:** MongoDB, Express.js, React.js, Node.js
+
+---
+
+### 🔗 URL Shortener
+A web application that converts long URLs into short, shareable links with efficient backend processing.
+
+**Technologies:** Go, REST APIs
+
+---
+
+### 🧳 Smart Safar
+A smart travel-oriented application designed to provide users with a convenient and interactive experience for planning and exploring journeys.
+
+**Technologies:** React.js, Node.js, MongoDB
+
+---
+
+### 🤝 Maitri
+A platform focused on connecting users and providing a simple, interactive web experience.
+
+**Technologies:** React.js, Node.js, MongoDB
+
+---
+
+## 💼 Experience
+
+### GeeksForGeeks — Technical Coordinator
+**Dec 2024 – Present**
+
+- Help organize technical events, coding sessions, and workshops.
+- Assist students in improving programming and problem-solving skills.
+- Contribute to technical activities within the college community.
+
+### Ardema — Social Media Manager
+**Dec 2024 – Present**
+
+- Manage social media content for Instagram and LinkedIn.
+- Create and edit reels, event photography, and promotional content.
+- Help coordinate and promote college events and activities.
+
+---
+
+## ✨ Portfolio Features
+
+- 🎨 Clean and modern UI
+- 📱 Fully responsive design
+- ⚡ Smooth animations using Framer Motion
+- 🧑‍💻 Skills and technology showcase
+- 🚀 Project showcase
+- 💼 Experience section
+- 📄 Resume download
+- 📩 Contact section
+- 🔗 Social media integration
+
+---
+
+## 📂 Project Structure
+
+```text
+my-portfolio/
+│
+├── public/
+│   └── assets/
+│
+├── src/
+│   ├── components/
+│   ├── App.jsx
+│   └── main.jsx
+│
+├── package.json
+├── vite.config.js
+└── README.md
