@@ -96,7 +96,7 @@ export default function Skills() {
       role: "Technical Coordinator",
       period: "Dec 2024 - Present",
       description:
-        "As a Technical Coordinator for the GeeksforGeeks College Club, I contribute to organizing technical events, coding sessions, and workshops while helping students strengthen their programming and problem-solving skills.",
+        "As a Technical Coordinator for the GeeksforGeeks College Club, I contribute to organizing and coordinating coding contests, technical workshops, problem-solving sessions, and developer-focused events. I collaborate with team members and participants to ensure the smooth planning and execution of various technical activities while encouraging students to improve their programming and problem-solving skills. Through this experience, I have also developed valuable skills in event management, teamwork, communication, leadership, and collaboration, learning how to coordinate with different people, manage responsibilities, and work effectively as part of a team. This role has helped me grow not only technically but also professionally by giving me practical experience in organizing and managing college-level initiatives.",
       logo: "/assets/gfg.jpg",
     },
     {
@@ -105,7 +105,7 @@ export default function Skills() {
       role: "Social Media Manager",
       period: "Dec 2024 - Feb 2025",
       description:
-        "As a Social Media Manager for the Ardema College Club, I manage the club’s Instagram and LinkedIn handles, create and edit content including reels and event photography, and help coordinate and promote college events and activities.",
+        "As a Social Media Manager for the Ardema College Club, I manage the club’s Instagram and LinkedIn handles and create content that reflects the club’s activities and events. I work on reels, event photography, promotional posts, and creative campaigns, while collaborating with the team to plan and cover different college events. Through this role, I have gained practical experience in social media management, photography, video editing, content planning, event coordination, teamwork, and communication. It has also helped me become more creative, manage work within deadlines, and understand how to present an event or idea effectively to an audience.",
       logo: "/assets/Ardema.jpg",
     },
   ];
